@@ -1,0 +1,13 @@
+{
+   "background_page": "background.html",
+   "description": "Send links to your iPhone via Pastefire from context menu.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "name": "Quick Pastefire",
+   "options_page": "index.html",
+   "permissions": ["contextMenus" , "https://pastefire.com/set.php"],
+   "version": "0.0.1"
+}
